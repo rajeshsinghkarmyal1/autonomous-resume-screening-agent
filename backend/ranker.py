@@ -1,5 +1,5 @@
-from backend.scoring import calculate_match_score
-from backend.skill_extractor import extract_skills
+from scoring import calculate_match_score
+from skill_extractor import extract_skills
 
 
 def rank_candidates(resume_list, job_description):
