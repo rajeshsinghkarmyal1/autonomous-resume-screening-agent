@@ -1,10 +1,10 @@
-numpy
-pandas
-scikit-learn
-spacy
-flask
 fastapi
 uvicorn
+scikit-learn
+numpy
+pandas
+spacy
+flask
 python-multipart
 PyPDF2
 docx2txt
