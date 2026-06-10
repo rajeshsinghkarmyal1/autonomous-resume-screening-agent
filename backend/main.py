@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from backend.ranker import rank_candidates
+from ranker import rank_candidates
 
 app = FastAPI()
 
